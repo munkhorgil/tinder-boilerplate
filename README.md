@@ -1,15 +1,18 @@
 # About
 
-Tinder like boilerplate app super easy to maintain and scale
+Tinder like boilerplate app super easy to get started
+![](demo.gif)
 
 ## Install
-
-1. Clone project
-2. ```yarn install```
-3. ```npx pod-install```
-4. ```npx react-native run-ios/run-android```
-
+```
+- Clone project
+- yarn install
+- npx pod-install
+- npx react-native run-ios/run-android
+```
 ## Test server
-1. cd server
-2. yarn install
-3. yarn dev
+```
+- cd server
+- yarn install
+- yarn dev
+```
