@@ -1,6 +1,7 @@
 # About
 
 Tinder like boilerplate app super easy to get started
+
 ![](demo.gif)
 
 ## Install
