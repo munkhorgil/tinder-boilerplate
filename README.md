@@ -1,4 +1,4 @@
-# Project structure
+# About
 
 Tinder like boilerplate app super easy to maintain and scale
 
